@@ -17,7 +17,7 @@ The project employs the following approach:
   - Check the status of an analysis task.
   - Retrieve the results of an analysis task.
 
-- **Deployed Service**: The application is deployed at [`https://githubpragent.onrender.com/docs`](https://githubpragent.onrender.com/docs) for easy access. Users can also run it locally or via Docker.
+- **Deployed Service**: The application is deployed at [`https://githubpragent-production.up.railway.app/docs`](https://githubpragent-production.up.railway.app/docs) for easy access. Users can also run it locally or via Docker.
 
 ---
 
@@ -34,9 +34,9 @@ The project employs the following approach:
 
 ### Option 1: Use the Deployed Service
 
-The service is deployed at [https://githubpragent.onrender.com](https://githubpragent.onrender.com).
+The service is deployed at [https://githubpragent-production.up.railway.app/docs](https://githubpragent-production.up.railway.app/docs).
 
-1. Visit [`https://githubpragent.onrender.com/docs`](https://githubpragent.onrender.com/docs) to explore the API documentation.
+1. Visit [`https://githubpragent-production.up.railway.app/docs`](https://githubpragent-production.up.railway.app/docs) to explore the API documentation.
 
 2. Submit a POST request to the `/analyze-pr` endpoint with the following example JSON:
 
